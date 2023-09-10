@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\Work\Self\sftp\libssh-0.10.5\examples\exec.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Work\Self\sftp\libssh-0.10.5\examples\authentication.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Work\Self\sftp\libssh-0.10.5\examples\knownhosts.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Work\Self\sftp\libssh-0.10.5\examples\connect_ssh.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\Work\Self\sftp\libssh-0.10.5\examples\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{0B981ED8-DC12-3D8E-8703-F62E0357755B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,216 @@
+﻿  Building Custom Rule E:/Work/Self/sftp/libssh-0.10.5/src/CMakeLists.txt
+  agent.c
+E:\Work\Self\sftp\libssh-0.10.5\src\agent.c(531,56): warning C4267: 'function': conversion from 'size_t' to 'uint32_t', possible loss of data
+  auth.c
+  base64.c
+E:\Work\Self\sftp\libssh-0.10.5\src\base64.c(191,3): warning C4244: '=': conversion from '__int64' to 'unsigned int', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\base64.c(192,3): warning C4244: '=': conversion from '__int64' to 'unsigned int', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\base64.c(198,3): warning C4244: '=': conversion from '__int64' to 'unsigned int', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\base64.c(204,3): warning C4244: '=': conversion from '__int64' to 'unsigned int', possible loss of data
+  bignum.c
+E:\Work\Self\sftp\libssh-0.10.5\src\bignum.c(77,5): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+  buffer.c
+E:\Work\Self\sftp\libssh-0.10.5\src\buffer.c(417,9): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\buffer.c(980,51): warning C4267: 'function': conversion from 'size_t' to 'u_long', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\buffer.c(982,59): warning C4267: 'function': conversion from 'size_t' to 'uint32_t', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\buffer.c(992,54): warning C4267: 'function': conversion from 'size_t' to 'uint32_t', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\buffer.c(1008,55): warning C4267: 'function': conversion from 'size_t' to 'uint32_t', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\buffer.c(1203,60): warning C4267: 'function': conversion from 'size_t' to 'uint32_t', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\buffer.c(1234,57): warning C4267: 'function': conversion from 'size_t' to 'uint32_t', possible loss of data
+  callbacks.c
+  channels.c
+E:\Work\Self\sftp\libssh-0.10.5\src\channels.c(562,9): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\channels.c(1556,31): warning C4267: '-=': conversion from 'size_t' to 'uint32_t', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\channels.c(1557,12): warning C4267: '-=': conversion from 'size_t' to 'uint32_t', possible loss of data
+  client.c
+E:\Work\Self\sftp\libssh-0.10.5\src\client.c(223,52): warning C4267: 'function': conversion from 'size_t' to 'uint32_t', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\client.c(232,32): warning C4267: 'function': conversion from 'size_t' to 'uint32_t', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\client.c(233,32): warning C4267: 'function': conversion from 'size_t' to 'uint32_t', possible loss of data
+  config.c
+E:\Work\Self\sftp\libssh-0.10.5\src\config.c(822,50): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\config.c(1266,22): warning C4244: '=': conversion from '__int64' to 'unsigned int', possible loss of data
+  connect.c
+E:\Work\Self\sftp\libssh-0.10.5\src\connect.c(217,56): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\connect.c(260,42): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+  connector.c
+E:\Work\Self\sftp\libssh-0.10.5\src\connector.c(285,49): warning C4244: 'function': conversion from 'ssize_t' to 'uint32_t', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\connector.c(289,56): warning C4244: 'function': conversion from 'ssize_t' to 'uint32_t', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\connector.c(299,32): warning C4244: 'function': conversion from 'socket_t' to 'int', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\connector.c(307,77): warning C4244: 'function': conversion from 'ssize_t' to 'uint32_t', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\connector.c(347,32): warning C4244: 'function': conversion from 'socket_t' to 'int', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\connector.c(354,50): warning C4244: 'function': conversion from 'ssize_t' to 'uint32_t', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\connector.c(489,21): warning C4244: '=': conversion from 'ssize_t' to 'int', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\connector.c(732,31): warning C4244: 'function': conversion from 'socket_t' to 'int', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\connector.c(758,35): warning C4244: 'function': conversion from 'socket_t' to 'int', possible loss of data
+  crypto_common.c
+  curve25519.c
+  dh.c
+  ecdh.c
+  error.c
+  getpass.c
+E:\Work\Self\sftp\libssh-0.10.5\src\getpass.c(66,24): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\getpass.c(90,37): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+  init.c
+  kdf.c
+  kex.c
+  Generating Code...
+  Compiling...
+  known_hosts.c
+E:\Work\Self\sftp\libssh-0.10.5\src\known_hosts.c(376,36): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\known_hosts.c(380,36): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+  knownhosts.c
+E:\Work\Self\sftp\libssh-0.10.5\src\knownhosts.c(174,23): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\knownhosts.c(702,52): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\knownhosts.c(704,51): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+  legacy.c
+  log.c
+  match.c
+  messages.c
+  misc.c
+E:\Work\Self\sftp\libssh-0.10.5\src\misc.c(208,10): warning C4996: 'WSAStringToAddressA': Use WSAStringToAddressW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+E:\Work\Self\sftp\libssh-0.10.5\src\misc.c(229,14): warning C4996: 'WSAStringToAddressA': Use WSAStringToAddressW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+E:\Work\Self\sftp\libssh-0.10.5\src\misc.c(1785,16): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\misc.c(1831,16): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+  options.c
+  packet.c
+E:\Work\Self\sftp\libssh-0.10.5\src\packet.c(1192,56): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\packet.c(1213,52): warning C4267: 'function': conversion from 'size_t' to 'uint32_t', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\packet.c(1370,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\packet.c(1717,34): warning C4267: 'function': conversion from 'size_t' to 'uint32_t', possible loss of data
+  packet_cb.c
+  packet_crypt.c
+  pcap.c
+E:\Work\Self\sftp\libssh-0.10.5\src\pcap.c(146,6): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  pki.c
+E:\Work\Self\sftp\libssh-0.10.5\src\pki.c(1003,12): warning C4267: '=': conversion from 'size_t' to 'off_t', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\pki.c(1081,10): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\pki.c(1691,13): warning C4267: 'function': conversion from 'size_t' to 'uint32_t', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\pki.c(1841,12): warning C4267: '=': conversion from 'size_t' to 'off_t', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\pki.c(2220,10): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\pki.c(2357,30): warning C4267: 'function': conversion from 'size_t' to 'uint32_t', possible loss of data
+  pki_container_openssh.c
+E:\Work\Self\sftp\libssh-0.10.5\src\pki_container_openssh.c(158,30): warning C4267: 'function': conversion from 'size_t' to 'uint32_t', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\pki_container_openssh.c(342,25): warning C4267: 'function': conversion from 'size_t' to 'uint32_t', possible loss of data
+  poll.c
+E:\Work\Self\sftp\libssh-0.10.5\src\poll.c(286,24): warning C4244: 'function': conversion from 'socket_t' to 'int', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\poll.c(300,67): warning C4244: 'function': conversion from 'socket_t' to 'int', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\poll.c(713,40): warning C4267: 'function': conversion from 'size_t' to 'nfds_t', possible loss of data
+  session.c
+  scp.c
+E:\Work\Self\sftp\libssh-0.10.5\src\scp.c(392,50): warning C4267: 'function': conversion from 'size_t' to 'uint32_t', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\scp.c(438,50): warning C4267: 'function': conversion from 'size_t' to 'uint32_t', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\scp.c(533,50): warning C4267: 'function': conversion from 'size_t' to 'uint32_t', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\scp.c(691,49): warning C4267: 'function': conversion from 'size_t' to 'uint32_t', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\scp.c(932,54): warning C4267: 'function': conversion from 'size_t' to 'uint32_t', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\scp.c(1029,49): warning C4267: 'function': conversion from 'size_t' to 'uint32_t', possible loss of data
+  socket.c
+E:\Work\Self\sftp\libssh-0.10.5\src\socket.c(314,62): warning C4244: 'function': conversion from 'ssize_t' to 'uint32_t', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\socket.c(339,53): warning C4267: 'function': conversion from 'size_t' to 'uint32_t', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\socket.c(574,20): warning C4244: 'function': conversion from 'socket_t' to 'int', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\socket.c(613,20): warning C4244: 'function': conversion from 'socket_t' to 'int', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\socket.c(744,46): warning C4244: 'function': conversion from 'ssize_t' to 'uint32_t', possible loss of data
+  string.c
+E:\Work\Self\sftp\libssh-0.10.5\src\string.c(70,23): warning C4267: 'function': conversion from 'size_t' to 'u_long', possible loss of data
+  threads.c
+  Generating Code...
+  Compiling...
+  wrapper.c
+E:\Work\Self\sftp\libssh-0.10.5\src\wrapper.c(187,9): warning C4996: 'EC_KEY_free': Since OpenSSL 3.0
+  bcrypt_pbkdf.c
+  blowfish.c
+  config_parser.c
+  token.c
+  pki_ed25519_common.c
+  noop.c
+  winlocks.c
+  pki_crypto.c
+E:\Work\Self\sftp\libssh-0.10.5\src\pki_crypto.c(83,20): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\pki_crypto.c(106,5): warning C4996: 'EC_KEY_free': Since OpenSSL 3.0
+E:\Work\Self\sftp\libssh-0.10.5\src\pki_crypto.c(122,25): warning C4996: 'EC_KEY_get0_group': Since OpenSSL 3.0
+E:\Work\Self\sftp\libssh-0.10.5\src\pki_crypto.c(302,18): warning C4996: 'EC_KEY_new_by_curve_name': Since OpenSSL 3.0
+E:\Work\Self\sftp\libssh-0.10.5\src\pki_crypto.c(307,9): warning C4996: 'EC_KEY_get0_group': Since OpenSSL 3.0
+E:\Work\Self\sftp\libssh-0.10.5\src\pki_crypto.c(325,10): warning C4996: 'EC_KEY_set_public_key': Since OpenSSL 3.0
+E:\Work\Self\sftp\libssh-0.10.5\src\pki_crypto.c(333,9): warning C4996: 'EC_KEY_free': Since OpenSSL 3.0
+E:\Work\Self\sftp\libssh-0.10.5\src\pki_crypto.c(337,10): warning C4996: 'EC_KEY_set_private_key': Since OpenSSL 3.0
+E:\Work\Self\sftp\libssh-0.10.5\src\pki_crypto.c(340,9): warning C4996: 'EC_KEY_free': Since OpenSSL 3.0
+E:\Work\Self\sftp\libssh-0.10.5\src\pki_crypto.c(396,18): warning C4996: 'EC_KEY_new_by_curve_name': Since OpenSSL 3.0
+E:\Work\Self\sftp\libssh-0.10.5\src\pki_crypto.c(401,9): warning C4996: 'EC_KEY_get0_group': Since OpenSSL 3.0
+E:\Work\Self\sftp\libssh-0.10.5\src\pki_crypto.c(419,10): warning C4996: 'EC_KEY_set_public_key': Since OpenSSL 3.0
+E:\Work\Self\sftp\libssh-0.10.5\src\pki_crypto.c(689,26): warning C4996: 'EC_KEY_new_by_curve_name': Since OpenSSL 3.0
+E:\Work\Self\sftp\libssh-0.10.5\src\pki_crypto.c(694,17): warning C4996: 'EC_KEY_get0_public_key': Since OpenSSL 3.0
+E:\Work\Self\sftp\libssh-0.10.5\src\pki_crypto.c(699,18): warning C4996: 'EC_KEY_set_public_key': Since OpenSSL 3.0
+E:\Work\Self\sftp\libssh-0.10.5\src\pki_crypto.c(704,18): warning C4996: 'EC_KEY_up_ref': Since OpenSSL 3.0
+E:\Work\Self\sftp\libssh-0.10.5\src\pki_crypto.c(928,18): warning C4996: 'EC_KEY_new_by_curve_name': Since OpenSSL 3.0
+E:\Work\Self\sftp\libssh-0.10.5\src\pki_crypto.c(944,10): warning C4996: 'EC_KEY_generate_key': Since OpenSSL 3.0
+E:\Work\Self\sftp\libssh-0.10.5\src\pki_crypto.c(946,9): warning C4996: 'EC_KEY_free': Since OpenSSL 3.0
+E:\Work\Self\sftp\libssh-0.10.5\src\pki_crypto.c(950,5): warning C4996: 'EC_KEY_set_asn1_flag': Since OpenSSL 3.0
+E:\Work\Self\sftp\libssh-0.10.5\src\pki_crypto.c(1055,38): warning C4996: 'EC_KEY_get0_public_key': Since OpenSSL 3.0
+E:\Work\Self\sftp\libssh-0.10.5\src\pki_crypto.c(1056,38): warning C4996: 'EC_KEY_get0_public_key': Since OpenSSL 3.0
+E:\Work\Self\sftp\libssh-0.10.5\src\pki_crypto.c(1057,38): warning C4996: 'EC_KEY_get0_group': Since OpenSSL 3.0
+E:\Work\Self\sftp\libssh-0.10.5\src\pki_crypto.c(1058,38): warning C4996: 'EC_KEY_get0_group': Since OpenSSL 3.0
+E:\Work\Self\sftp\libssh-0.10.5\src\pki_crypto.c(1073,1): warning C4996: 'EC_KEY_get0_private_key': Since OpenSSL 3.0
+E:\Work\Self\sftp\libssh-0.10.5\src\pki_crypto.c(1171,18): warning C4996: 'EVP_PKEY_set1_EC_KEY': Since OpenSSL 3.0
+E:\Work\Self\sftp\libssh-0.10.5\src\pki_crypto.c(1357,17): warning C4996: 'EVP_PKEY_get1_EC_KEY': Since OpenSSL 3.0
+E:\Work\Self\sftp\libssh-0.10.5\src\pki_crypto.c(1479,5): warning C4996: 'EC_KEY_free': Since OpenSSL 3.0
+E:\Work\Self\sftp\libssh-0.10.5\src\pki_crypto.c(2082,41): warning C4996: 'EC_KEY_get0_group': Since OpenSSL 3.0
+E:\Work\Self\sftp\libssh-0.10.5\src\pki_crypto.c(2083,41): warning C4996: 'EC_KEY_get0_public_key': Since OpenSSL 3.0
+E:\Work\Self\sftp\libssh-0.10.5\src\pki_crypto.c(2228,48): warning C4267: 'function': conversion from 'size_t' to 'long', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\pki_crypto.c(2313,52): warning C4267: 'function': conversion from 'size_t' to 'long', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\pki_crypto.c(2454,26): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\pki_crypto.c(2637,30): warning C4267: 'function': conversion from 'size_t' to 'uint32_t', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\pki_crypto.c(2932,9): warning C4996: 'EVP_PKEY_set1_EC_KEY': Since OpenSSL 3.0
+E:\Work\Self\sftp\libssh-0.10.5\src\pki_crypto.c(3215,19): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  ecdh_crypto.c
+E:\Work\Self\sftp\libssh-0.10.5\src\ecdh_crypto.c(160,9): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\ecdh_crypto.c(130,9): warning C4996: 'EC_KEY_new_by_curve_name': Since OpenSSL 3.0
+E:\Work\Self\sftp\libssh-0.10.5\src\ecdh_crypto.c(155,11): warning C4996: 'EC_KEY_get0_group': Since OpenSSL 3.0
+E:\Work\Self\sftp\libssh-0.10.5\src\ecdh_crypto.c(157,3): warning C4996: 'EC_KEY_generate_key': Since OpenSSL 3.0
+E:\Work\Self\sftp\libssh-0.10.5\src\ecdh_crypto.c(159,10): warning C4996: 'EC_KEY_get0_public_key': Since OpenSSL 3.0
+E:\Work\Self\sftp\libssh-0.10.5\src\ecdh_crypto.c(166,7): warning C4996: 'EC_KEY_free': Since OpenSSL 3.0
+E:\Work\Self\sftp\libssh-0.10.5\src\ecdh_crypto.c(214,7): warning C4996: 'EC_KEY_free': Since OpenSSL 3.0
+E:\Work\Self\sftp\libssh-0.10.5\src\ecdh_crypto.c(241,27): warning C4996: 'EC_KEY_get0_group': Since OpenSSL 3.0
+E:\Work\Self\sftp\libssh-0.10.5\src\ecdh_crypto.c(281,8): warning C4996: 'ECDH_compute_key': Since OpenSSL 3.0
+E:\Work\Self\sftp\libssh-0.10.5\src\ecdh_crypto.c(382,7): warning C4996: 'EC_KEY_free': Since OpenSSL 3.0
+E:\Work\Self\sftp\libssh-0.10.5\src\ecdh_crypto.c(394,3): warning C4996: 'EC_KEY_free': Since OpenSSL 3.0
+E:\Work\Self\sftp\libssh-0.10.5\src\ecdh_crypto.c(502,11): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\ecdh_crypto.c(477,16): warning C4996: 'EC_KEY_new_by_curve_name': Since OpenSSL 3.0
+E:\Work\Self\sftp\libssh-0.10.5\src\ecdh_crypto.c(494,9): warning C4996: 'EC_KEY_free': Since OpenSSL 3.0
+E:\Work\Self\sftp\libssh-0.10.5\src\ecdh_crypto.c(498,13): warning C4996: 'EC_KEY_get0_group': Since OpenSSL 3.0
+E:\Work\Self\sftp\libssh-0.10.5\src\ecdh_crypto.c(499,5): warning C4996: 'EC_KEY_generate_key': Since OpenSSL 3.0
+E:\Work\Self\sftp\libssh-0.10.5\src\ecdh_crypto.c(501,19): warning C4996: 'EC_KEY_get0_public_key': Since OpenSSL 3.0
+E:\Work\Self\sftp\libssh-0.10.5\src\ecdh_crypto.c(536,9): warning C4996: 'EC_KEY_free': Since OpenSSL 3.0
+  getrandom_crypto.c
+  md_crypto.c
+  dh_crypto.c
+E:\Work\Self\sftp\libssh-0.10.5\src\dh_crypto.c(595,32): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+  sftp.c
+E:\Work\Self\sftp\libssh-0.10.5\src\sftp.c(805,59): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\sftp.c(806,59): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\sftp.c(2133,13): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+  sftpserver.c
+  server.c
+E:\Work\Self\sftp\libssh-0.10.5\src\server.c(482,38): warning C4267: 'function': conversion from 'size_t' to 'uint32_t', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\server.c(483,38): warning C4267: 'function': conversion from 'size_t' to 'uint32_t', possible loss of data
+  bind.c
+E:\Work\Self\sftp\libssh-0.10.5\src\bind.c(119,32): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+  bind_config.c
+E:\Work\Self\sftp\libssh-0.10.5\src\bind_config.c(699,22): warning C4244: '=': conversion from '__int64' to 'unsigned int', possible loss of data
+  dh-gex.c
+  gzip.c
+  Generating Code...
+  libcrypto.c
+  libcrypto.c
+E:\Work\Self\sftp\libssh-0.10.5\src\libcrypto.c(103,9): warning C4996: 'ENGINE_load_builtin_engines': Since OpenSSL 3.0
+E:\Work\Self\sftp\libssh-0.10.5\src\libcrypto.c(105,18): warning C4996: 'ENGINE_by_id': Since OpenSSL 3.0
+E:\Work\Self\sftp\libssh-0.10.5\src\libcrypto.c(114,14): warning C4996: 'ENGINE_init': Since OpenSSL 3.0
+E:\Work\Self\sftp\libssh-0.10.5\src\libcrypto.c(119,13): warning C4996: 'ENGINE_free': Since OpenSSL 3.0
+E:\Work\Self\sftp\libssh-0.10.5\src\libcrypto.c(352,59): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\libcrypto.c(638,37): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\libcrypto.c(656,30): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\libcrypto.c(694,30): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\libcrypto.c(719,28): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\libcrypto.c(1001,62): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\libcrypto.c(1090,27): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+E:\Work\Self\sftp\libssh-0.10.5\src\libcrypto.c(1157,32): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+     Creating library E:/Work/Self/sftp/libssh-0.10.5/build/src/Release/ssh.lib and object E:/Work/Self/sftp/libssh-0.10.5/build/src/Release/ssh.exp
+  ssh.vcxproj -> E:\Work\Self\sftp\libssh-0.10.5\build\src\Release\ssh.dll

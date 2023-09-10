@@ -1,0 +1,19 @@
+﻿  Building Custom Rule E:/Work/Self/sftp/zlib-1.2.13/CMakeLists.txt
+  adler32.c
+  compress.c
+  crc32.c
+  deflate.c
+  gzclose.c
+  gzlib.c
+  gzread.c
+  gzwrite.c
+  inflate.c
+  infback.c
+  inftrees.c
+  inffast.c
+  trees.c
+  uncompr.c
+  zutil.c
+  Generating Code...
+     Creating library E:/Work/Self/sftp/zlib-1.2.13/build/Release/zlib.lib and object E:/Work/Self/sftp/zlib-1.2.13/build/Release/zlib.exp
+  zlib.vcxproj -> E:\Work\Self\sftp\zlib-1.2.13\build\Release\zlib.dll

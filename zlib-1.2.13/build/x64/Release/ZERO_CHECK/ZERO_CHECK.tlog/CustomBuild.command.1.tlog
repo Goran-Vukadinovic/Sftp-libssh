@@ -1,0 +1,10 @@
+^E:\WORK\SELF\SFTP\ZLIB-1.2.13\BUILD\CMAKEFILES\C56A3A07DC802C248B1CD58EE8A60740\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SE:/Work/Self/sftp/zlib-1.2.13 -BE:/Work/Self/sftp/zlib-1.2.13/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/Work/Self/sftp/zlib-1.2.13/build/zlib.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

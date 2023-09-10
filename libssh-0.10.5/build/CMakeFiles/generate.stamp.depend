@@ -1,0 +1,64 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.26/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CPack.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CPackComponent.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CheckCCompilerFlag.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CheckCXXSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CheckFunctionExists.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CheckIncludeFileCXX.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CheckIncludeFiles.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CheckLibraryExists.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CheckStructHasMember.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CheckSymbolExists.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CheckTypeSize.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Compiler/MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/FindOpenSSL.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/FindThreads.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/FindZLIB.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/GNUInstallDirs.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Internal/CheckCompilerFlag.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Internal/CheckFlagCommonConfig.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Internal/CheckSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/SelectLibraryConfigurations.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/TestBigEndian.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/WriteBasicConfigVersionFile.cmake
+C:/Program Files/CMake/share/cmake-3.26/Templates/CPackConfig.cmake.in
+E:/Work/Self/sftp/libssh-0.10.5/CMakeLists.txt
+E:/Work/Self/sftp/libssh-0.10.5/CPackConfig.cmake
+E:/Work/Self/sftp/libssh-0.10.5/CompilerChecks.cmake
+E:/Work/Self/sftp/libssh-0.10.5/ConfigureChecks.cmake
+E:/Work/Self/sftp/libssh-0.10.5/DefineOptions.cmake
+E:/Work/Self/sftp/libssh-0.10.5/build/CMakeFiles/3.26.1/CMakeCCompiler.cmake
+E:/Work/Self/sftp/libssh-0.10.5/build/CMakeFiles/3.26.1/CMakeRCCompiler.cmake
+E:/Work/Self/sftp/libssh-0.10.5/build/CMakeFiles/3.26.1/CMakeSystem.cmake
+E:/Work/Self/sftp/libssh-0.10.5/cmake/Modules/AddCCompilerFlag.cmake
+E:/Work/Self/sftp/libssh-0.10.5/cmake/Modules/CheckCCompilerFlagSSP.cmake
+E:/Work/Self/sftp/libssh-0.10.5/cmake/Modules/DefineCMakeDefaults.cmake
+E:/Work/Self/sftp/libssh-0.10.5/cmake/Modules/DefineCompilerFlags.cmake
+E:/Work/Self/sftp/libssh-0.10.5/cmake/Modules/DefinePlatformDefaults.cmake
+E:/Work/Self/sftp/libssh-0.10.5/cmake/Modules/FindArgp.cmake
+E:/Work/Self/sftp/libssh-0.10.5/cmake/Modules/FindGSSAPI.cmake
+E:/Work/Self/sftp/libssh-0.10.5/cmake/Modules/FindNSIS.cmake
+E:/Work/Self/sftp/libssh-0.10.5/cmake/Modules/FindNaCl.cmake
+E:/Work/Self/sftp/libssh-0.10.5/cmake/Modules/MacroEnsureOutOfSourceBuild.cmake
+E:/Work/Self/sftp/libssh-0.10.5/config.h.cmake
